@@ -14,3 +14,5 @@ Do the following to Complete this assignment:
 
 Hello World!
 I am a frog!
+
+why is coding fun?
